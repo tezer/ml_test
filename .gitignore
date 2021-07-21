@@ -21,7 +21,7 @@ sdist/
 var/
 wheels/
 checkpoints/
-lightening_logs/
+lightning_logs/
 .idea/
 pip-wheel-metadata/
 share/python-wheels/
