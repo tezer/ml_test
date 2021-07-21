@@ -20,6 +20,9 @@ parts/
 sdist/
 var/
 wheels/
+checkpoints/
+lightening_logs/
+.idea/
 pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
