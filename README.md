@@ -1,5 +1,16 @@
 # ml_test
 
+## Update
+**I added experiments with _Simple transformers_ + _wandb_: `run_classifier_st.py` and `train_classifier.py`. 
+The output is `test_answers_st.csv`.**
+
+**_Simple transformers_ add even more simplicity to training code, while _wandb_ brings visualization hyperparameter tuning.**
+**Although the _wandb_ would work with other frameworks too (e.g. PyTorch, TensorFlow, Keras), I like how Simple _Transformers integrate_ with _wandb_**
+
+**To train a model with _Simple transformers_ + _wandb_ you need an account at <https://wandb.ai/>**
+
+**end of update**
+
 This is a simple command-line utility for multi-label text classification. There is a trainer (`train_classifier.py`)
 and a text tagger (`run_classifier.py`). The file `constants.py`contains the most important settings for training and
 for tagging.
