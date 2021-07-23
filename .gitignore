@@ -23,6 +23,10 @@ wheels/
 checkpoints/
 lightning_logs/
 .idea/
+outputs/
+runs/
+wandb/
+cache_dir/
 pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
